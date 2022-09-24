@@ -9,5 +9,5 @@ The MES Class - Overview of Weeks works & Final Project details
 * Week - 4 Managing the Flow of Activity       <pre>"Class this week"</pre>            
 
 
-Final Project [<pre>**"Wireless Monitoring System of Invasive Blood Pressure System"**</pre>]()
+Final Project [<pre>**"Wireless Monitoring System of Invasive Blood Pressure System"**</pre>](..Sreedharbot/MES-LightningSree/MES_project_file_/Final_project_discrib.md)
 
